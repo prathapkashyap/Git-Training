@@ -3,3 +3,5 @@ all the stars
 new Line
 line added by amreen
 this line and the line above will give merge conflicts
+one more line
+
