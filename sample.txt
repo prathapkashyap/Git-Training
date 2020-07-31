@@ -4,8 +4,12 @@ new Line
 line added by amreen
 this line and the line above will give merge conflicts
 one more line
+<<<<<<< HEAD
 so many many many
 sooo maaannnnyyyyy lines now
 in b2
 added new lines
 
+=======
+so many lines
+>>>>>>> parent of b98d210... second time commit last time
