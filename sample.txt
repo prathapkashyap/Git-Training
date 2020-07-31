@@ -6,4 +6,7 @@ this line and the line above will give merge conflicts
 one more line
 so many many many
 sooo maaannnnyyyyy lines now
+in b2
+added new lines
+so many lines
 1243
